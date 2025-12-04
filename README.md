@@ -1,4 +1,4 @@
-Hi, I'm [Your Name]
+Hi, I'm Anoop PS
 
 Full-Stack Developer | Node.js · React · JavaScript · PHP
 
@@ -41,12 +41,13 @@ RESTful API Design
 
 React project: Movie Listing App with filtering & search
 
-Node.js backend projects with authentication & DB integration
+Node.js backend projects with authentication & DB integration, JWT Authntication, Authorization, refreshToken
 
 Building reusable UI components
 Improving problem-solving and system design fundamentals
 
 🔗 Connect With Me
+
 💼 LinkedIn: https://www.linkedin.com/in/g2j6ne
 
 💼 StackOverflow: https://stackoverflow.com/users/1338683/anoop-p-s
