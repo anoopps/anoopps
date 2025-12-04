@@ -48,4 +48,5 @@ Improving problem-solving and system design fundamentals
 
 🔗 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/g2j6ne
+
 💼 StackOverflow: https://stackoverflow.com/users/1338683/anoop-p-s
