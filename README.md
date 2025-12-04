@@ -6,9 +6,11 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Senior Software Engineer with 13+ years of experience** building scalable and high-performance applications using the **LAMP stack** and transitioning into **modern full-stack (MERN) development**.
+I’m a Full-Stack Developer with strong experience in building secure, scalable, and data-driven web applications. 
+My journey began with the LAMP stack, evolved through GraphQL, Node.js, and TypeScript, and is now expanding into the MERN ecosystem, enabling me to build modern, high-performance applications.
 
-I specialize in backend engineering, API development, scalable architecture, and clean coding practices across PHP and JavaScript ecosystems.
+I focus on clean architecture, solving real-world engineering challenges, and continuously improving my technical expertise.
+
 
 ---
 
