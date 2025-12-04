@@ -1,53 +1,104 @@
-Hi, I'm Anoop PS
+<h1 align="center">👋 Hi, I'm Anoop</h1>
+<p align="center">
+  <strong>Senior Software Engineer | MERN & LAMP Developer</strong>
+</p>
 
-Full-Stack Developer | Node.js · React · JavaScript · PHP
+---
 
-I’m a Full-Stack Developer with strong experience in building secure, scalable, and data-driven web applications.
-My journey started with the LAMP stack, grew through GraphQL, Node.js, TypeScript, and is now advancing into the MERN stack to build modern, high-performance applications.
+## 🚀 About Me  
+I'm a **Senior Software Engineer with 13+ years of experience** building scalable and high-performance applications using the **LAMP stack** and transitioning into **modern full-stack (MERN) development**.
 
-I enjoy writing clean architecture, solving real-world problems, and continuously upgrading my skills.
+I specialize in backend engineering, API development, scalable architecture, and clean coding practices across PHP and JavaScript ecosystems.
 
-🚀 Tech Stack
-Frontend
+---
 
-HTML, CSS, JavaScript (ES6+)
-React (Learning & Building Projects)
-Responsive UI Development
+## 🛠️ Tech Stack & Tools
 
-Backend
+### **Frontend**
+- JavaScript, TypeScript  
+- jQuery, HTML5, CSS, Bootstrap  
+- React.js  
 
-PHP (Core PHP, LAMP)
-Node.js, Express.js
-GraphQL (Apollo / Custom Resolvers)
-Databases
-MySQL
-MongoDB
-Sequelize ORM
-Prisma ORM
+### **Backend**
+- Core PHP, CodeIgniter, Joomla  
+- Node.js, Express.js  
+- GraphQL, REST APIs  
+- JWT Authentication  
 
-Git & GitHub
-Postman 
+### **Database**
+- MySQL, PostgreSQL, MongoDB  
+- Sequelize, Prisma  
+- Redis  
 
-JWT Authentication
-RESTful API Design
+### **Tools & DevOps**
+- GitHub, SVN  
+- AWS  
+- Visual Studio Code  
+- Postman  
+- Agile Practices  
 
-📌 Current Focus
+### **Testing**
+- PHPUnit  
+- Chai  
+- Jest  
 
-🌱 Sharpening my MERN stack skills
-🔥 Building real-world Node.js + React projects 
-🚀 Preparing for full-stack developer roles in modern tech stacks
+### **AI / IDE Support Tools**
+- VS Code  
+- GitHub  
+- GitHub Copilot  
 
-🧰 What I’m Working On
+---
 
-React project: Movie Listing App with filtering & search
+## 📌 Featured Projects
 
-Node.js backend projects with authentication & DB integration, JWT Authntication, Authorization, refreshToken
+### 🔹 **MovieList – React App**
+Movie listing, filtering, searching, and modern component architecture.  
+**Tech:** React, Hooks, Context API  
+📁 [Repository](#)
 
-Building reusable UI components
-Improving problem-solving and system design fundamentals
+### 🔹 **Node Login API (Express + MySQL)**
+JWT authentication, bcrypt password hashing, role-based access, and MySQL integration.  
+**Tech:** Node.js, Express, MySQL  
+📁 [Repository](#)
 
-🔗 Connect With Me
+### 🔹 **GraphQL PHP Backend (Multi-Tenant System)**
+Robust backend with role-based permissions and optimized SQL workflows.  
+**Tech:** PHP, GraphQL, MySQL  
+📁 [Repository](#)
 
-💼 LinkedIn: https://www.linkedin.com/in/g2j6ne
+---
 
-💼 StackOverflow: https://stackoverflow.com/users/1338683/anoop-p-s
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anoopps&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopps&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+- MERN full-stack architecture  
+- Advanced React
+- Node.js production-level structuring  
+- Modern backend best practices  
+
+---
+
+## 🎯 2025 Goals
+- Move into a modern full-stack developer role  
+- Build 5 production-quality MERN projects  
+- Improve system design expertise  
+
+---
+
+## 📫 Connect With Me  
+- **Email:** *anoopps1111@gmail.com*  
+- **GitHub:** https://github.com/anoopps 
+- **LinkedIn:** https://www.linkedin.com/in/g2j6ne 
+- **StackOverflow:** https://stackoverflow.com/users/1338683/anoop-p-s
+
+---
+
+⭐ **If you find my repositories helpful, feel free to star them!**
+ 
