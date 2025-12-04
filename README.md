@@ -96,9 +96,9 @@ Robust backend with role-based permissions and optimized SQL workflows.
 
 ## 📫 Connect With Me  
 - **Email:** *anoopps1111@gmail.com*  
-- **GitHub:** https://github.com/anoopps 
 - **LinkedIn:** https://www.linkedin.com/in/g2j6ne 
 - **StackOverflow:** https://stackoverflow.com/users/1338683/anoop-p-s
+- **WebPortfolio:** https://anoopps.github.io/theweb/
 
 ---
 
