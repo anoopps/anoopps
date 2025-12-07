@@ -69,28 +69,12 @@ Robust backend with role-based permissions and optimized SQL workflows.
 📁 [Repository](#)
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoopps&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopps&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
+ 
 ## 🌱 Currently Learning
 - MERN full-stack architecture  
 - Advanced React
 - Node.js production-level structuring  
 - Modern backend best practices  
-
----
-
-## 🎯 2025 Goals
-- Move into a modern full-stack developer role  
-- Build 5 production-quality MERN projects  
-- Improve system design expertise  
 
 ---
 
