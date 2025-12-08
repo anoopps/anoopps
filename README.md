@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Anoop</h1>
+<h1 align="left">Hi, I'm Anoop</h1>
 <p align="left">
   <strong>Senior Software Engineer | MERN & LAMP Developer</strong>
 </p>
@@ -57,42 +57,42 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 A production-grade Node.js sample project using MySQL as the backend.
 Includes Helmet, Winston centralized logging, environment configs, and a clean folder structure.
 Tech: JavaScript, Node.js, Express, MySQL
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/node_project_architecture">Repository</a>
 
 ### 🔧 Node Generic CRUD Architecture
 
 A reusable and scalable Node.js CRUD architecture with controllers, services, and repository layers.
 Perfect for building modular CRUD-based REST APIs.
 Tech: TypeScript, Node.js, Express
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">Repository</a>
 
 ### 🍽️ React Food Order App
 
 A React-based food ordering app where products are fetched from an external API.
 Users can browse dishes, add items to cart, and manage quantities.
 Tech: React, CSS, Hooks
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/reactFoodOrder">Repository</a>
 
 ### 📝 React Quiz App
 
 A lightweight and beginner-friendly quiz application built with React.
 Includes scoring logic and dynamic question rendering.
 Tech: React, CSS
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/reactQuiz">Repository</a>
 
 ### 🧬 GraphQL Starter Template
 
 A clean and minimal GraphQL project starter to quickly bootstrap a new GraphQL backend.
 Includes schema, resolvers, boilerplate server setup, and modular structure.
 Tech: JavaScript, GraphQL, Node.js
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/demoGraphql">Repository</a>
 
 ### 📂 Task Manager – Role-Based Access
 
 A Node.js CRUD backend featuring role-based access control and secure authentication.
 Built with Express and organized using a structured MVC pattern.
 Tech: JavaScript, Node.js, Express
-🔗 Repository
+🔗 <a href="https://github.com/anoopps/task-manager-role-based">Repository</a>
 
 ---
  
