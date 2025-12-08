@@ -73,14 +73,14 @@ Users can browse dishes, add items to cart, and manage quantities.
 Tech: React, CSS, Hooks
 🔗 Repository
 
-###📝 React Quiz App
+### 📝 React Quiz App
 
 A lightweight and beginner-friendly quiz application built with React.
 Includes scoring logic and dynamic question rendering.
 Tech: React, CSS
 🔗 Repository
 
-###🧬 GraphQL Starter Template
+### 🧬 GraphQL Starter Template
 
 A clean and minimal GraphQL project starter to quickly bootstrap a new GraphQL backend.
 Includes schema, resolvers, boilerplate server setup, and modular structure.
