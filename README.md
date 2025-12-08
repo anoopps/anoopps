@@ -56,12 +56,12 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 ### 🔹 **MovieList – React App**
 Movie listing, filtering, searching, and modern component architecture.  
 **Tech:** React, Hooks, Context API  
-📁 [Repository](#https://github.com/anoopps/node-generic-crud-architecture)
+📁 [<a href="https://github.com/anoopps/node-generic-crud-architecture"> Repository </a>]
 
 ### 🔹 **Node Login API (Express + MySQL)**
 JWT authentication, bcrypt password hashing, role-based access, and MySQL integration.  
 **Tech:** Node.js, Express, MySQL  
-📁 [Repository](#)
+📁 [<a href="https://github.com/anoopps/node-generic-crud-architecture"> Repository </a>](#)
 
 ### 🔹 **GraphQL PHP Backend (Multi-Tenant System)**
 Robust backend with role-based permissions and optimized SQL workflows.  
