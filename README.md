@@ -11,7 +11,6 @@ My journey began with the LAMP stack, evolved through GraphQL, Node.js, and Type
 
 I focus on clean architecture, solving real-world engineering challenges, and continuously improving my technical expertise.
 
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -63,7 +62,7 @@ JWT authentication, bcrypt password hashing, role-based access, and MySQL integr
 **Tech:** Node.js, Express, MySQL  
 📁 [<a href="https://github.com/anoopps/node-generic-crud-architecture"> Repository </a>](#)
 
-### 🔹 **GraphQL PHP Backend (Multi-Tenant System)**
+### 🔹 **GraphQL PHP **
 Robust backend with role-based permissions and optimized SQL workflows.  
 **Tech:** PHP, GraphQL, MySQL  
 📁 [Repository](#)
@@ -71,10 +70,8 @@ Robust backend with role-based permissions and optimized SQL workflows.
 ---
  
 ## 🌱 Currently Learning
-- MERN full-stack architecture  
-- Advanced React
+- Advanced ReactJS 
 - Node.js production-level structuring  
-- Modern backend best practices  
 
 ---
 
