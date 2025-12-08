@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Anoop</h1>
-<p align="center">
+<h1 align="left">👋 Hi, I'm Anoop</h1>
+<p align="left">
   <strong>Senior Software Engineer | MERN & LAMP Developer</strong>
 </p>
 
@@ -56,7 +56,7 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 ### 🔹 **MovieList – React App**
 Movie listing, filtering, searching, and modern component architecture.  
 **Tech:** React, Hooks, Context API  
-📁 [Repository](#)
+📁 [Repository](#https://github.com/anoopps/node-generic-crud-architecture)
 
 ### 🔹 **Node Login API (Express + MySQL)**
 JWT authentication, bcrypt password hashing, role-based access, and MySQL integration.  
