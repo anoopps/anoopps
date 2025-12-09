@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Anoop</h1>
+<h1 align="left">Hi, I'm Anoop P S</h1>
 <p align="left">
   <strong>Senior Software Engineer | MERN & LAMP Developer</strong>
 </p>
