@@ -104,7 +104,7 @@ Tech: JavaScript, Node.js, Express
 
 ## 📫 Connect With Me  
 - **Email:** *anoopps1111@gmail.com*  
-- **LinkedIn:** https://www.linkedin.com/in/g2j6ne 
+- **LinkedIn:** https://www.linkedin.com/in/anoopps5 
 - **StackOverflow:** https://stackoverflow.com/users/1338683/anoop-p-s
 - **WebPortfolio:** https://anoopps.github.io/theweb/
 
