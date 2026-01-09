@@ -66,6 +66,12 @@ Perfect for building modular CRUD-based REST APIs.
 Tech: TypeScript, Node.js, Express
 🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">Repository</a>
 
+### 🛒 Node.js E-Commerce Backend System
+
+Developed a production-grade e-commerce backend using Node.js, Express, and MySQL, following layered architecture and RESTful design principles. Implemented user authentication, product and category modules, order lifecycle management, and centralized configuration for scalable deployment.
+Tech: Node.js, Express, MySQL, JavaScript
+🔗 <a href="[https://github.com/anoopps/demoGraphql](https://github.com/anoopps/node_ecommerce_project)">Repository</a>
+
 ### 🍽️ React Food Order App
 
 A React-based food ordering app where products are fetched from an external API.
@@ -80,21 +86,7 @@ Includes scoring logic and dynamic question rendering.
 Tech: React, CSS
 🔗 <a href="https://github.com/anoopps/reactQuiz">Repository</a>
 
-### 🧬 GraphQL Starter Template
-
-A clean and minimal GraphQL project starter to quickly bootstrap a new GraphQL backend.
-Includes schema, resolvers, boilerplate server setup, and modular structure.
-Tech: JavaScript, GraphQL, Node.js
-🔗 <a href="https://github.com/anoopps/demoGraphql">Repository</a>
-
-### 📂 Task Manager – Role-Based Access
-
-A Node.js CRUD backend featuring role-based access control and secure authentication.
-Built with Express and organized using a structured MVC pattern.
-Tech: JavaScript, Node.js, Express
-🔗 <a href="https://github.com/anoopps/task-manager-role-based">Repository</a>
-
----
+ ---
  
 ## 🌱 Currently Learning
 - Advanced ReactJS 
