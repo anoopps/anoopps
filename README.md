@@ -58,14 +58,14 @@ A production-style Node.js backend structure built with scalability and maintain
 Includes layered architecture, environment-based configuration, Helmet security, Winston centralized logging, and MySQL integration. Demonstrates how to structure enterprise-ready backend services.
 
 Tech: Node.js, Express, JavaScript, MySql
-🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository](https://github.com/anoopps/node_project_architecture)</a>
+🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository]/a>
 
 ### 🔧 Node Generic CRUD Architecture
 
 A reusable and modular TypeScript-based CRUD API architecture using controller-service-repository pattern. Designed for building scalable REST APIs with clean separation of concerns and maintainable structure.
 
 Tech: TypeScript, Node.js, Express
-🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository](https://github.com/anoopps/node-generic-crud-architecture)</a>
+🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository]</a>
 
 ### 🛒 Task Manager with Role-Based Access
 
@@ -73,7 +73,7 @@ A backend system showcasing authentication and role-based authorization (RBAC).
 Implements protected routes, user roles, and permission handling — reflecting real-world backend security practices.
 
 Tech: Node.js, Express, JWT, MySQL
-🔗 <a href="https://github.com/anoopps/task-manager-role-based">[Repository] https://github.com/anoopps/task-manager-role-based</a>
+🔗 <a href="https://github.com/anoopps/task-manager-role-based">[Repository]</a>
 
  ### 🛒Node.js E-Commerce Backend System
 
@@ -81,14 +81,14 @@ A business-oriented backend system designed to model real-world e-commerce workf
 Includes user authentication, product & category management, order lifecycle handling, and structured REST APIs following layered architecture principles.
 
 Tech: Node.js, Express, MySQL, JavaScript
-🔗 <a href="https://github.com/anoopps/node_ecommerce_project"> [Repository] https://github.com/anoopps/node_ecommerce_project </a>
+🔗 <a href="https://github.com/anoopps/node_ecommerce_project"> [Repository]</a>
 
  ### 🌐 GraphQL Starter Architecture
 
 A clean and minimal GraphQL server setup structured for quick adoption in production-ready systems. Demonstrates schema setup, resolver structure, and organized project layout for scalable API development.
 
 Tech: Node.js, GraphQL, JavaScript
-🔗 <a href="https://github.com/anoopps/demoGraphql">[[Repository](https://github.com/anoopps/task-manager-role-based)](https://github.com/anoopps/demoGraphql)</a>
+🔗 <a href="https://github.com/anoopps/demoGraphql">[Repository]</a>
 
  
  ---
