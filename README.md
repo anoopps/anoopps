@@ -58,7 +58,7 @@ A production-style Node.js backend structure built with scalability and maintain
 Includes layered architecture, environment-based configuration, Helmet security, Winston centralized logging, and MySQL integration. Demonstrates how to structure enterprise-ready backend services.
 
 Tech: Node.js, Express, JavaScript, MySql
-🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository]/a>
+🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository]</a>
 
 ### 🔧 Node Generic CRUD Architecture
 
@@ -67,7 +67,7 @@ A reusable and modular TypeScript-based CRUD API architecture using controller-s
 Tech: TypeScript, Node.js, Express
 🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository]</a>
 
-### 🛒 Task Manager with Role-Based Access
+### 🌐 Task Manager with Role-Based Access
 
 A backend system showcasing authentication and role-based authorization (RBAC).
 Implements protected routes, user roles, and permission handling — reflecting real-world backend security practices.
@@ -93,7 +93,7 @@ Tech: Node.js, GraphQL, JavaScript
  
  ---
  
-## 🌱 Currently Learning
+## Deepening expertise in scalable backend architecture
 - Advanced ReactJS 
 - Node.js production-level structuring  
 
