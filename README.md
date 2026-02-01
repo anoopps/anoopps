@@ -54,38 +54,43 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 
 ### Node Project Architecture
 
-A production-grade Node.js sample project using MySQL as the backend.
-Includes Helmet, Winston centralized logging, environment configs, and a clean folder structure.
-Tech: JavaScript, Node.js, Express, MySQL
-🔗 <a href="https://github.com/anoopps/node_project_architecture">Repository</a>
+A production-style Node.js backend structure built with scalability and maintainability in mind.
+Includes layered architecture, environment-based configuration, Helmet security, Winston centralized logging, and MySQL integration. Demonstrates how to structure enterprise-ready backend services.
+
+Tech: Node.js, Express, JavaScript, MySql
+🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository](https://github.com/anoopps/node_project_architecture)</a>
 
 ### 🔧 Node Generic CRUD Architecture
 
-A reusable and scalable Node.js CRUD architecture with controllers, services, and repository layers.
-Perfect for building modular CRUD-based REST APIs.
+A reusable and modular TypeScript-based CRUD API architecture using controller-service-repository pattern. Designed for building scalable REST APIs with clean separation of concerns and maintainable structure.
+
 Tech: TypeScript, Node.js, Express
-🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">Repository</a>
+🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository](https://github.com/anoopps/node-generic-crud-architecture)</a>
 
-### 🛒 Node.js E-Commerce Backend System
+### 🛒 Task Manager with Role-Based Access
 
-Developed a production-grade e-commerce backend using Node.js, Express, and MySQL, following layered architecture and RESTful design principles. Implemented user authentication, product and category modules, order lifecycle management, and centralized configuration for scalable deployment.
+A backend system showcasing authentication and role-based authorization (RBAC).
+Implements protected routes, user roles, and permission handling — reflecting real-world backend security practices.
+
+Tech: Node.js, Express, JWT, MySQL
+🔗 <a href="https://github.com/anoopps/task-manager-role-based">[Repository] https://github.com/anoopps/task-manager-role-based</a>
+
+ ### 🛒Node.js E-Commerce Backend System
+
+A business-oriented backend system designed to model real-world e-commerce workflows.
+Includes user authentication, product & category management, order lifecycle handling, and structured REST APIs following layered architecture principles.
+
 Tech: Node.js, Express, MySQL, JavaScript
-🔗 <a href="[https://github.com/anoopps/demoGraphql](https://github.com/anoopps/node_ecommerce_project)">Repository</a>
+🔗 <a href="https://github.com/anoopps/node_ecommerce_project"> [Repository] https://github.com/anoopps/node_ecommerce_project </a>
 
-### 🍽️ React Food Order App
+ ### 🌐 GraphQL Starter Architecture
 
-A React-based food ordering app where products are fetched from an external API.
-Users can browse dishes, add items to cart, and manage quantities.
-Tech: React, CSS, Hooks
-🔗 <a href="https://github.com/anoopps/reactFoodOrder">Repository</a>
+A clean and minimal GraphQL server setup structured for quick adoption in production-ready systems. Demonstrates schema setup, resolver structure, and organized project layout for scalable API development.
 
-### 📝 React Quiz App
+Tech: Node.js, GraphQL, JavaScript
+🔗 <a href="https://github.com/anoopps/demoGraphql">[[Repository](https://github.com/anoopps/task-manager-role-based)](https://github.com/anoopps/demoGraphql)</a>
 
-A lightweight and beginner-friendly quiz application built with React.
-Includes scoring logic and dynamic question rendering.
-Tech: React, CSS
-🔗 <a href="https://github.com/anoopps/reactQuiz">Repository</a>
-
+ 
  ---
  
 ## 🌱 Currently Learning
