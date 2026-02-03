@@ -27,26 +27,15 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 - JWT Authentication  
 
 ### **Database**
-- MySQL, PostgreSQL, MongoDB  
-- Sequelize, Prisma  
-- Redis  
+- MySQL, PostgreSQL, MongoDB, Redis  
+- Sequelize, Prisma    
 
 ### **Tools & DevOps**
 - GitHub, SVN  
-- AWS  
-- Visual Studio Code  
-- Postman  
-- Agile Practices  
+- Visual Studio Code, GitHub Copilot, Postman, AWS  
 
 ### **Testing**
-- PHPUnit  
-- Chai  
-- Jest  
-
-### **AI / IDE Support Tools**
-- VS Code  
-- GitHub  
-- GitHub Copilot  
+- PHPUnit, Chai, Jest  
 
 ---
 
