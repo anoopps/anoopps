@@ -18,21 +18,19 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 ### **Frontend**
 - JavaScript, TypeScript  
 - jQuery, HTML5, CSS, Bootstrap  
-- React.js  
+- React.js 
 
 ### **Backend**
 - Core PHP, CodeIgniter, Joomla  
-- Node.js, Express.js  
-- GraphQL, REST APIs  
-- JWT Authentication  
+- Node.js, Express.js, GraphQL, REST APIs  
+- JWT Authentication
 
 ### **Database**
 - MySQL, PostgreSQL, MongoDB, Redis  
 - Sequelize, Prisma    
 
 ### **Tools & DevOps**
-- GitHub, SVN  
-- Visual Studio Code, GitHub Copilot, Postman, AWS  
+- GitHub, SVN, Visual Studio Code, GitHub Copilot, Postman, AWS  
 
 ### **Testing**
 - PHPUnit, Chai, Jest  
@@ -56,13 +54,13 @@ A reusable and modular TypeScript-based CRUD API architecture using controller-s
 Tech: TypeScript, Node.js, Express
 🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository]</a>
 
-### 🌐 Task Manager with Role-Based Access
+### 💬 Real-Time Chat Messenger System
 
-A backend system showcasing authentication and role-based authorization (RBAC).
-Implements protected routes, user roles, and permission handling — reflecting real-world backend security practices.
+A full-stack system demonstrating real-time communication using event-driven architecture.
+Includes real-time message exchange, structured API design, and scalable backend organization — reflecting how modern applications handle live user interactions.
 
-Tech: Node.js, Express, JWT, MySQL
-🔗 <a href="https://github.com/anoopps/task-manager-role-based">[Repository]</a>
+Tech: React, Node.js, Express, TypeScript, WebSockets
+🔗 <a href="https://github.com/anoopps/chatMessenger">[Repository]</a>
 
  ### 🛒Node.js E-Commerce Backend System
 
