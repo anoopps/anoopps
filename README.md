@@ -17,7 +17,6 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 
 ### **Frontend**
 - JavaScript, TypeScript  
-- jQuery, HTML5, CSS, Bootstrap  
 - React.js 
 
 ### **Backend**
