@@ -38,27 +38,18 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 
 ## 📌 Featured Projects
 
-### Node Project Architecture
+### AI-Powered Virtual Dress Try-On Platform
 
-A production-style Node.js backend structure built with scalability and maintainability in mind.
-Includes layered architecture, environment-based configuration, Helmet security, Winston centralized logging, and MySQL integration. Demonstrates how to structure enterprise-ready backend services.
+Developing a single-page web application that enables users to virtually try on fashion apparel using AI-based visualization. Built with React.js, Node.js, Express.js, MySQL, JavaScript, HTML, CSS, and AI/Image Processing APIs, the platform enhances online shopping through interactive outfit preview, responsive UI, and future e-commerce integration, with ongoing development focused on scalability and personalized user experience.
 
-Tech: Node.js, Express, JavaScript, MySql
-🔗 <a href="https://github.com/anoopps/node_project_architecture">[Repository]</a>
-
-### 🔧 Node Generic CRUD Architecture
-
-A reusable and modular TypeScript-based CRUD API architecture using controller-service-repository pattern. Designed for building scalable REST APIs with clean separation of concerns and maintainable structure.
-
-Tech: TypeScript, Node.js, Express
-🔗 <a href="https://github.com/anoopps/node-generic-crud-architecture">[Repository]</a>
+Tech: React.js, Node.js, Express.js, MySQL, JavaScript, HTML, CSS
+🔗 <a href="[https://github.com/anoopps/node_project_architecture]">[Repository*]</a>
 
 ### 💬 Real-Time Chat Messenger System
 
-A full-stack system demonstrating real-time communication using event-driven architecture.
-Includes real-time message exchange, structured API design, and scalable backend organization — reflecting how modern applications handle live user interactions.
+Designed and developed a modern full-stack chat platform featuring secure authentication, real-time messaging, chat room collaboration, and profile management. Focused on component-based frontend architecture, RESTful API design, and event-driven backend communication.
 
-Tech: React, Node.js, Express, TypeScript, WebSockets
+Tech: React, Node.js, Express, MySQL, Socket.IO, JWT
 🔗 <a href="https://github.com/anoopps/chatMessenger">[Repository]</a>
 
  ### 🛒Node.js E-Commerce Backend System
@@ -69,14 +60,7 @@ Includes user authentication, product & category management, order lifecycle han
 Tech: Node.js, Express, MySQL, JavaScript
 🔗 <a href="https://github.com/anoopps/node_ecommerce_project"> [Repository]</a>
 
- ### 🌐 GraphQL Starter Architecture
 
-A clean and minimal GraphQL server setup structured for quick adoption in production-ready systems. Demonstrates schema setup, resolver structure, and organized project layout for scalable API development.
-
-Tech: Node.js, GraphQL, JavaScript
-🔗 <a href="https://github.com/anoopps/demoGraphql">[Repository]</a>
-
- 
  ---
  
 ## Deepening expertise in scalable backend architecture
