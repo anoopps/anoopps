@@ -36,7 +36,7 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 
 ---
 
-## 📌 Featured Projects
+## 📌 Personal Projects
 
 ### AI-Powered Virtual Dress Try-On Platform
 
