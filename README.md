@@ -50,7 +50,7 @@ Tech: React.js, Node.js, Express.js, MySQL, JavaScript, HTML, CSS
 Designed and developed a modern full-stack chat platform featuring secure authentication, real-time messaging, chat room collaboration, and profile management. Focused on component-based frontend architecture, RESTful API design, and event-driven backend communication.
 
 Tech: React, Node.js, Express, MySQL, Socket.IO, JWT
-🔗 <a href="https://github.com/anoopps/chatMessenger">[Repository]</a>
+🔗 <a href="https://github.com/anoopps/chat-app-showcase">[Repository]</a>
 
  ### 🛒Node.js E-Commerce Backend System
 
