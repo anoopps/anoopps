@@ -43,7 +43,7 @@ I focus on clean architecture, solving real-world engineering challenges, and co
 Developing a single-page web application that enables users to virtually try on fashion apparel using AI-based visualization. Built with React.js, Node.js, Express.js, MySQL, JavaScript, HTML, CSS, and AI/Image Processing APIs, the platform enhances online shopping through interactive outfit preview, responsive UI, and future e-commerce integration, with ongoing development focused on scalability and personalized user experience.
 
 Tech: React.js, Node.js, Express.js, MySQL, JavaScript, HTML, CSS
-🔗 <a href="[https://github.com/anoopps/node_project_architecture]">[Repository*]</a>
+🔗 <a href="https://github.com/anoopps/styleme-showcase">[Repository*]</a>
 
 ### 💬 Real-Time Chat Messenger System
 
